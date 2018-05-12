@@ -1,0 +1,30 @@
+_repo: The-Wild-Tribes-of-Davao-District-Mindanao--13-The-R.-F.-Cummings-Philippine-Expedition_18273
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cole, Fay-Cooper
+    birthdate: 1881
+    deathdate: 1961
+    gutenberg_agent_id: '4415'
+    url: http://www.gutenberg.org/2009/agents/4415
+    wikipedia: http://www.mnsu.edu/emuseum/information/biography/abcde/cole_fay-cooper.html
+description: ''
+gutenberg_bookshelf: Anthropology
+gutenberg_issued: '2006-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18273'
+  lccn: '13024658'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethnology -- Philippines -- Mindanao Island'
+- !lcc 'GN'
+title: "The Wild Tribes of Davao District, Mindanao\r\nThe R. F. Cummings Philippine\
+  \ Expedition"
+url: http://www.gutenberg.org/ebooks/18273
