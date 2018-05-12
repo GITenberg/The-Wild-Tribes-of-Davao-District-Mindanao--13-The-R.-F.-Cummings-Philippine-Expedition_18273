@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4415
     wikipedia: http://www.mnsu.edu/emuseum/information/biography/abcde/cole_fay-cooper.html
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18273#The-Wild-Tribes-of-Davao-District-Mindanao--13-The-R.-F.-Cummings-Philippine-Expedition
 gutenberg_bookshelf: Anthropology
 gutenberg_issued: '2006-04-28'
 gutenberg_type: Text
